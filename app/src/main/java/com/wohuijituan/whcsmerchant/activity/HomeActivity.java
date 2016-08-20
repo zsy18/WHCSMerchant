@@ -38,7 +38,6 @@ public class HomeActivity extends MyBaseActivity {
 
     private void assignViews() {
         flContent = (FrameLayout) findViewById(R.id.fl_content);
-
     }
 
     @Override
