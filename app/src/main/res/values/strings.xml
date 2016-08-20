@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WHCSMerchant</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_goods_manage">GoodsManageActivity</string>
+    <string name="order_number_today">今日订单</string>
+    <string name="sale_number_today">今日售额</string>
+    <string name="sale_number_all">累计售额</string>
+    <string name="cost_settlement">费用结算</string>
+    <string name="order_form">订单报表</string>
+    <string name="release_notice">发布公告</string>
+    <string name="system_notice">系统公告</string>
+    <string name="common_question">常见问题</string>
+    <string name="bank_card">我的银行</string>\
+    <string name="operate_log">操作日志</string>
+    <string name="order_price">金额:</string>
+    <string name="order_state_receive">接单</string>
+    <string name="order_state_prepare">备货中</string>
+    <string name="order_state_done">已完成</string>
+    <string name="goods_shelve">上架</string>
+    <string name="goods_un_shelve">下架</string>
+    <string name="goods_add">添加</string>
+
+</resources>
